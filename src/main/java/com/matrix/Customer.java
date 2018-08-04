@@ -67,8 +67,13 @@ public class Customer {
 	public void showPaymentHistory(int id){
 		
 	}
+	public void showRewardPoints(int id){
+		
+	}
 	
-	
+	public void showVendorInfo(int id){
+			
+		}
 	
 	
 	
