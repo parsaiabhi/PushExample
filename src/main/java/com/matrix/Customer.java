@@ -55,6 +55,18 @@ public class Customer {
 	public void showCatelogDetails(int id){
 		
 	}
+	public void showLast_10Days_HistoryDetails(int id){
+		
+	}
+	public void showLast_3Days_HistoryDetails(int id){
+		
+	}
+	public void updateProfile(int id){
+		
+	}
+	public void showPaymentHistory(int id){
+		
+	}
 	
 	
 	
