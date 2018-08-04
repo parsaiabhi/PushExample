@@ -71,7 +71,9 @@ public class Customer {
 		
 	}
 	
-	
+	public void showVendorInfo(int id){
+			
+		}
 	
 	
 	
