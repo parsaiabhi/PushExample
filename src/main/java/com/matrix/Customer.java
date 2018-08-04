@@ -34,6 +34,10 @@ public class Customer {
 		
 	}
 	
+	public void remove(int id){
+		
+	}
+	
 	
 
 }
