@@ -6,6 +6,7 @@ import java.util.List;
 public class Customer {
 	
 	private List<Employee> empList;
+	private Map<String,Employee> map = new HashMap<String,Employee>();
 	public Customer(){
 	
 		empList = new ArrayList<Employee>();
