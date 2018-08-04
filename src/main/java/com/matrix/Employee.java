@@ -22,8 +22,6 @@ public class Employee {
 		return new Employee();
 	}
 	
-	public List<Employee>  getAllEmp(){
-		return empList;
-	}
+	
 
 }
