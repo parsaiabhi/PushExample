@@ -37,6 +37,27 @@ public class Customer {
 	public void remove(int id){
 		
 	}
+	public Employee getById(int id){
+		return new Employee();
+	}
+	
+	public void update(int id){
+		
+	}
+	
+	public void showBillDetails(int id){
+		
+	}
+	public void showProductDetails(int id){
+		
+	}
+	
+	public void showCatelogDetails(int id){
+		
+	}
+	
+	
+	
 	
 	
 
