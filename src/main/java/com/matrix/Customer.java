@@ -25,6 +25,12 @@ public class Customer {
 		empList.add(emp);
 	}
 	
+	public List<Employee> showAll(){
+		
+		return empList;
+		
+	}
+	
 	
 
 }
