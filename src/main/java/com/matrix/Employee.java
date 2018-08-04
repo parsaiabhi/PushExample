@@ -1,5 +1,7 @@
 package com.matrix;
 
+import java.util.List;
+
 public class Employee {
 	private List<Employee> empList;
 	private int empId;
@@ -20,7 +22,7 @@ public class Employee {
 		return new Employee();
 	}
 	
-	public void List<Employee>  getAllEmp(){
+	public List<Employee>  getAllEmp(){
 		return empList;
 	}
 
